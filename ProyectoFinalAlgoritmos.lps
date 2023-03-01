@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="ProyectoFinalAlgoritmos.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="29" Y="8"/>
+        <UsageCount Value="26"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unit_manejo_archivos_personas.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Unit_manejo_archivos_personas"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <CursorPos Y="8"/>
+        <UsageCount Value="26"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unit_manejo_archivos_atenciones.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Unit_manejo_archivos_atenciones"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="3"/>
+        <CursorPos X="24" Y="6"/>
+        <UsageCount Value="26"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unit_herramientas.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Unit_herramientas"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="209"/>
+        <CursorPos X="58" Y="244"/>
+        <UsageCount Value="26"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unit_listas.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Unit_listas"/>
+        <EditorIndex Value="4"/>
+        <CursorPos Y="27"/>
+        <UsageCount Value="26"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unit_principal.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Unit_principal"/>
+        <EditorIndex Value="5"/>
+        <CursorPos Y="299"/>
+        <UsageCount Value="26"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unit_usa_arbol.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Unit_usa_arbol"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="8"/>
+        <CursorPos X="8" Y="27"/>
+        <FoldState Value=" T3a0A2G"/>
+        <UsageCount Value="26"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unit_abmc.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Unit_ABMC"/>
+        <EditorIndex Value="7"/>
+        <TopLine Value="36"/>
+        <CursorPos Y="43"/>
+        <FoldState Value=" T3i60J1 pjDja0A441d"/>
+        <UsageCount Value="26"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unit_pantallas.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Unit_pantallas"/>
+        <EditorIndex Value="8"/>
+        <TopLine Value="19"/>
+        <CursorPos X="34" Y="160"/>
+        <UsageCount Value="26"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="unit_listas.pas"/>
+        <Caret Line="109" TopLine="95"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_principal.pas"/>
+        <Caret Line="463" TopLine="406"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_principal.pas"/>
+        <Caret Line="464" TopLine="406"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_principal.pas"/>
+        <Caret Line="465" TopLine="406"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_listas.pas"/>
+        <Caret Line="109" TopLine="95"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_principal.pas"/>
+        <Caret Line="463" TopLine="406"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_principal.pas"/>
+        <Caret Line="464" TopLine="406"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_principal.pas"/>
+        <Caret Line="465" TopLine="406"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_principal.pas"/>
+        <Caret Line="461" Column="22" TopLine="406"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_principal.pas"/>
+        <Caret Line="463" TopLine="406"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_principal.pas"/>
+        <Caret Line="464" TopLine="406"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_principal.pas"/>
+        <Caret Line="483" Column="13" TopLine="458"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_principal.pas"/>
+        <Caret Line="113" Column="19" TopLine="79"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_principal.pas"/>
+        <Caret Line="215" Column="54" TopLine="113"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_principal.pas"/>
+        <Caret Line="52" TopLine="50"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_pantallas.pas"/>
+        <Caret Line="68" Column="17" TopLine="39"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_pantallas.pas"/>
+        <Caret Line="94" Column="17" TopLine="78"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_pantallas.pas"/>
+        <Caret Line="340" Column="7" TopLine="306"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_pantallas.pas"/>
+        <Caret Line="93" Column="18" TopLine="75"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_abmc.pas"/>
+        <Caret Line="392" Column="4" TopLine="329"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_pantallas.pas"/>
+        <Caret Line="160" Column="34" TopLine="85"/>
+      </Position>
+      <Position>
+        <Filename Value="ProyectoFinalAlgoritmos.lpr"/>
+        <Caret Line="8" Column="29"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_manejo_archivos_personas.pas"/>
+        <Caret Line="50" Column="6" TopLine="40"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_abmc.pas"/>
+        <Caret Line="40" TopLine="29"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_abmc.pas"/>
+        <Caret Line="41" TopLine="36"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_abmc.pas"/>
+        <Caret Line="42" TopLine="36"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_abmc.pas"/>
+        <Caret Line="43" TopLine="36"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_usa_arbol.pas"/>
+        <Caret Line="27" Column="8" TopLine="18"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_manejo_archivos_atenciones.pas"/>
+        <Caret Line="6"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_manejo_archivos_atenciones.pas"/>
+        <Caret Line="34" TopLine="23"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
